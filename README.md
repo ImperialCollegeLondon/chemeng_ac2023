@@ -8,9 +8,9 @@
 This code provides an implementation of the research paper:
 
 ```
-  "Learning and Teaching Fluid Dynamics using Augmented and Mixed Reality"
-  Nitesh Bhatia, and Omar K. Matar
-  ISMAR, 2022
+  "Comparing training skill retention in immersive and non-immersive environments: A case study with VR and EEG"
+  Adrien Lienau, George Spencer, Nitesh Bhatia, and Omar K. Matar
+  AC, 2023
 ```
 
 
