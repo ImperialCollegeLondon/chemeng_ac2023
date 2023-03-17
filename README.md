@@ -1,4 +1,4 @@
-# [Learning and Teaching Fluid Dynamics using Augmented and Mixed Reality]
+# [Comparing training skill retention in immersive and non-immersive environments: A case study with VR and EEG]
 
 [Nitesh Bhatia](https://www.imperial.ac.uk/people/n.bhatia)\*, [Omar K. Matar](https://www.imperial.ac.uk/people/o.matar)\*
 
